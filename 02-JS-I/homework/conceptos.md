@@ -1,0 +1,4 @@
+Variables: es una forma de almacenar un tipo de valor para que pueda ser usado despues.
+Strings: es un tipo de dato que consiste en un hilo de carácteres o un bloque de texto que se define siempre entre comillas.
+Funciones: Una funcion es un tipo de instruccion que se le da al interprete de JS para que haga algo. Se le agregan un conjunto de variables que van entre paréntesis llamadas argumentos. Return es un statement que pára la ejecución del código y devuelve un valor especificado.
+Valores ooleanos: un valor booleano es un tipo de dato que en JS tiene dos posibles valores, true (verdadero) o false (falso).
